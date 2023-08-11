@@ -1,0 +1,20 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: #ffc017;
+}
+
+.border-bottom-dark{
+    border-bottom:1px solid #222
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
